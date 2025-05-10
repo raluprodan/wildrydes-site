@@ -271,21 +271,6 @@ input[type=submit]:hover {
 }
 
 
-.home-button {
-  display: inline-block;
-  background: #fff;
-  border: 1px solid transparent;
-  border-radius: 1.25rem;
-  color: #f50856;
-  font-size: 1.25rem;
-  text-transform: uppercase;
-  padding: 0.3125rem 1.5625rem;
-  font-weight: 700;
-  margin: 1rem auto;
-  display: block;
-  text-align: center;
-}
-
 
 
 
